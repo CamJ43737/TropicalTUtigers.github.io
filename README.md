@@ -10,6 +10,7 @@
 
 
 Introductory code to introduce the player to their guide and to get the user familiarized with the objective
+  -define the variable "Turt",set movement and prompts the speech to begin when the movement stops
 ![image](https://user-images.githubusercontent.com/93938227/218312285-a0534f58-4d44-45a9-b3e3-56195551d8c0.png)
 
 Rides whale function to get user to the island
